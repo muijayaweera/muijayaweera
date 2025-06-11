@@ -28,7 +28,6 @@
 
 ---
 
-### 🌟 About Me
 
 ## About Me
 
@@ -63,14 +62,6 @@ A real-time stock monitoring system using load cells, RFID, LCDs & ESP32. Displa
 
 ---
 
-### ✨ Little Things About Me
 
-- 🌈 I love combining tech + creativity
-- 🧠 I name my devices and talk to my code like it’s alive
-- ☕ My fuel: Milo, memes, and midnight debugging
-- 🌍 Dreaming of building apps that make lives easier
-
----
-
-<p align="center">Made with ❤️ by Upeka</p>
+<p align="center"> thanks for stopping by!</p>
 
