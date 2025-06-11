@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Designing Interfaces • Engineering Logic • Empowering Ideas </h1>
 
-<!--
-**muijayaweera/muijayaweera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Engineer;App+Architect;Creative+Thinker;IoT+Enthusiast" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/upeka-jayaweera/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.behance.net/upekajayaweera" target="_blank">
+    <img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/just_peka/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-3f3f3f?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+
+
+## Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,ts,react,nodejs,java,flutter,dart,php,cs,mysql,firebase,git,arduino,figma,canva&perline=11" alt="Tech Stack" />
+</p>
+
+
+---
+
+### 🌟 About Me
+
+## About Me
+
+I’m a third-year Software Engineering undergraduate at NSBM Green University, affiliated with Plymouth University – UK.  
+My interests lie in UI/UX design, mobile and web application development, and smart IoT systems.  
+I enjoy crafting intuitive, user-centered digital experiences that blend functionality with clean design.  
+Constantly learning, iterating, and building solutions that make a difference.
+
+
+---
+
+
+
+---
+
+### 📱 Featured Projects
+
+#### 🩺 OstoCare
+A Flutter-based mobile app built with Firebase to support ostomy patients in Sri Lanka. Includes nurse connections, appliance tracking, awareness tools & more.
+
+#### 📦 IoT Smart Shelf
+A real-time stock monitoring system using load cells, RFID, LCDs & ESP32. Displays live inventory and updates to a Firebase-connected dashboard.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="45%">
+</p>
+
+---
+
+### ✨ Little Things About Me
+
+- 🌈 I love combining tech + creativity
+- 🧠 I name my devices and talk to my code like it’s alive
+- ☕ My fuel: Milo, memes, and midnight debugging
+- 🌍 Dreaming of building apps that make lives easier
+
+---
+
+<p align="center">Made with ❤️ by Upeka</p>
+
