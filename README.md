@@ -37,30 +37,14 @@ I enjoy crafting intuitive, user-centered digital experiences that blend functio
 Constantly learning, iterating, and building solutions that make a difference.
 
 
----
 
+### Featured Projects
 
-
----
-
-### 📱 Featured Projects
-
-#### 🩺 OstoCare
+#### • OstoCare •
 A Flutter-based mobile app built with Firebase to support ostomy patients in Sri Lanka. Includes nurse connections, appliance tracking, awareness tools & more.
 
-#### 📦 IoT Smart Shelf
+#### • IoT Based Smart Shelf •
 A real-time stock monitoring system using load cells, RFID, LCDs & ESP32. Displays live inventory and updates to a Firebase-connected dashboard.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="45%">
-</p>
-
----
 
 
 <p align="center"> thanks for stopping by!</p>
